@@ -1,0 +1,30 @@
+.div-a {
+    background-color: #af4ca4;
+    width: 700px;
+    height: 700px;
+}
+
+.div-b{
+    background-color: #98ea40;
+    width: 550px;
+    height: 650px;
+}
+
+.p-c{
+    color: black;
+    background-color: whitesmoke;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.div-d{
+    width: 30vw;
+    height: 30vh;
+    background-color: burlywood;
+}
+
+.div-e{
+    width: 65vw;
+    height: 55vh;
+    background-color: pink;
+}
